@@ -55,11 +55,18 @@
           <p class="text-gray-300 text-lg leading-relaxed mb-6">
             We create the <strong class="text-white">worlds, data, and behaviors</strong> that teach robots — advancing <em class="text-blue-300">Sim2Real</em>, where skills learned in simulation transfer to the real world.
           </p>
-          <div class="mt-8 p-6 bg-blue-500/10 border border-blue-500/30 rounded-lg">
-            <p class="text-gray-300">
-              <strong class="text-white">Directed by <a href="https://mike.gold" class="text-blue-400 hover:text-blue-300 transition">Michael Gold</a></strong><br>
-              MFA Computer Arts Faculty, School of Visual Arts
-            </p>
+          <div class="mt-8 p-6 bg-blue-500/10 border border-blue-500/30 rounded-lg flex items-center gap-6">
+            <img 
+              src="/michael-gold.jpg" 
+              alt="Michael Gold - Director of SVA Physical AI Lab"
+              class="w-24 h-24 rounded-full object-cover border-2 border-blue-400"
+            />
+            <div>
+              <p class="text-gray-300">
+                <strong class="text-white">Directed by <a href="https://mike.gold" class="text-blue-400 hover:text-blue-300 transition">Michael Gold</a></strong><br>
+                MFA Computer Arts Faculty, School of Visual Arts
+              </p>
+            </div>
           </div>
         </div>
       </div>
