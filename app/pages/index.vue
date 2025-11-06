@@ -78,7 +78,8 @@
       <div class="container mx-auto max-w-6xl">
         <div class="text-center mb-12">
           <h2 class="text-4xl font-bold text-white mb-4 flex items-center justify-center gap-3">
-            For Students <span class="text-5xl">🎓</span>
+            <i class="pi pi-graduation-cap text-blue-400"></i>
+            For Students
           </h2>
           <p class="text-2xl text-blue-400 font-semibold">Create the worlds that teach robots.</p>
         </div>
@@ -111,15 +112,17 @@
         </div>
 
         <div class="bg-gradient-to-r from-blue-500/10 to-purple-500/10 border border-blue-500/30 rounded-lg p-6 mb-12">
-          <p class="text-gray-300 text-center">
-            💡 <em>Join workshops, sprints, and projects that turn your creative skills into applied research.</em>
+          <p class="text-gray-300 text-center flex items-center justify-center gap-2">
+            <i class="pi pi-lightbulb text-yellow-400"></i>
+            <em>Join workshops, sprints, and projects that turn your creative skills into applied research.</em>
           </p>
         </div>
 
         <!-- Student Pathways -->
         <div class="mt-12">
           <h3 class="text-3xl font-bold text-white mb-8 flex items-center gap-3">
-            🧭 Student Pathways
+            <i class="pi pi-compass text-blue-400"></i>
+            Student Pathways
           </h3>
           <div class="grid md:grid-cols-2 gap-6">
             <div class="bg-gray-800/70 p-6 rounded-lg border border-gray-700 hover:border-blue-500/50 transition">
@@ -148,7 +151,8 @@
       <div class="container mx-auto max-w-6xl">
         <div class="text-center mb-12">
           <h2 class="text-4xl font-bold text-white mb-4 flex items-center justify-center gap-3">
-            For Partners <span class="text-5xl">🤝</span>
+            <i class="pi pi-users text-blue-400"></i>
+            For Partners
           </h2>
           <p class="text-2xl text-blue-400 font-semibold">Collaborate with SVA to prototype the future of Physical AI.</p>
         </div>
@@ -193,7 +197,10 @@
               <span class="px-3 py-1 bg-gray-800 rounded-full text-sm text-gray-300">Agility Robotics</span>
             </div>
             <div class="mt-6 text-center">
-              <p class="text-gray-300 mb-4">🧩 <em>Interested in hosting a sprint, sponsoring a dataset, or testing a concept?</em></p>
+              <p class="text-gray-300 mb-4 flex items-center justify-center gap-2">
+                <i class="pi pi-puzzle-piece text-purple-400"></i>
+                <em>Interested in hosting a sprint, sponsoring a dataset, or testing a concept?</em>
+              </p>
               <a href="#contact" class="inline-block px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition">
                 Partner with Us →
               </a>
@@ -207,7 +214,8 @@
     <section id="focus" class="py-20 px-6">
       <div class="container mx-auto max-w-6xl">
         <h2 class="text-4xl font-bold text-white mb-12 text-center flex items-center justify-center gap-3">
-          Our Focus Areas <span class="text-5xl">⚙️</span>
+          <i class="pi pi-cog text-blue-400"></i>
+          Our Focus Areas
         </h2>
 
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -239,7 +247,8 @@
     <section id="events" class="py-20 px-6 bg-gray-900/50">
       <div class="container mx-auto max-w-6xl">
         <h2 class="text-4xl font-bold text-white mb-12 text-center flex items-center justify-center gap-3">
-          Upcoming Events <span class="text-5xl">📅</span>
+          <i class="pi pi-calendar text-blue-400"></i>
+          Upcoming Events
         </h2>
 
         <div class="overflow-x-auto">
@@ -301,14 +310,20 @@
 
         <div class="grid md:grid-cols-2 gap-8 mb-12">
           <div class="bg-gray-800/70 p-8 rounded-lg border border-gray-700">
-            <h3 class="text-2xl font-bold text-blue-400 mb-4">🎓 Join the Lab</h3>
+            <h3 class="text-2xl font-bold text-blue-400 mb-4 flex items-center gap-2">
+              <i class="pi pi-graduation-cap"></i>
+              Join the Lab
+            </h3>
             <p class="text-gray-300 mb-4">
               If you're an SVA student or alum curious about <strong class="text-white">AI, robotics, and creative simulation</strong>, we'd love to hear from you.
             </p>
             <p class="text-gray-400 italic">No prior robotics experience required — bring your imagination.</p>
           </div>
           <div class="bg-gray-800/70 p-8 rounded-lg border border-gray-700">
-            <h3 class="text-2xl font-bold text-blue-400 mb-4">🤝 Partner with Us</h3>
+            <h3 class="text-2xl font-bold text-blue-400 mb-4 flex items-center gap-2">
+              <i class="pi pi-users"></i>
+              Partner with Us
+            </h3>
             <p class="text-gray-300 mb-4">
               If you're a <strong class="text-white">lab, studio, or company</strong> working on robotics, digital twins, or embodied AI, collaborate with us on sprints, datasets, or research.
             </p>
@@ -382,8 +397,14 @@
           <p class="text-gray-400">New York City</p>
         </div>
         <div class="text-center space-y-2 text-gray-400">
-          <p>📍 133 W 21st St 10th floor, New York, NY 10011</p>
-          <p>🌐 <a href="https://sva.edu/mfaca" class="text-blue-400 hover:text-blue-300 transition">sva.edu/mfaca</a></p>
+          <p class="flex items-center justify-center gap-2">
+            <i class="pi pi-map-marker text-blue-400"></i>
+            133 W 21st St 10th floor, New York, NY 10011
+          </p>
+          <p class="flex items-center justify-center gap-2">
+            <i class="pi pi-globe text-blue-400"></i>
+            <a href="https://sva.edu/mfaca" class="text-blue-400 hover:text-blue-300 transition">sva.edu/mfaca</a>
+          </p>
         </div>
         <div class="mt-8 text-center text-gray-500 text-sm">
           <p><em>© 2025 School of Visual Arts. All rights reserved.</em></p>
