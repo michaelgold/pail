@@ -322,7 +322,7 @@
               </li>
             </ul>
           </div>
-          <div
+          <!-- <div
             class="bg-gradient-to-br from-blue-500/10 to-purple-500/10 p-6 rounded-lg border border-blue-500/30"
           >
             <h3 class="text-xl font-bold text-white mb-4">
@@ -363,7 +363,7 @@
                 Partner with Us →
               </a>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </section>
