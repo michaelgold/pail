@@ -322,10 +322,10 @@
               </li>
             </ul>
           </div>
-          <!-- <div
+          <div
             class="bg-gradient-to-br from-blue-500/10 to-purple-500/10 p-6 rounded-lg border border-blue-500/30"
           >
-            <h3 class="text-xl font-bold text-white mb-4">
+            <!-- <h3 class="text-xl font-bold text-white mb-4">
               Past & Potential Collaborators:
             </h3>
             <div class="flex flex-wrap gap-3">
@@ -345,7 +345,7 @@
                 class="px-3 py-1 bg-gray-800 rounded-full text-sm text-gray-300"
                 >Agility Robotics</span
               >
-            </div>
+            </div> -->
             <div class="mt-6 text-center">
               <p
                 class="text-gray-300 mb-4 flex items-center justify-center gap-2"
@@ -363,7 +363,7 @@
                 Partner with Us →
               </a>
             </div>
-          </div> -->
+          </div>
         </div>
       </div>
     </section>
